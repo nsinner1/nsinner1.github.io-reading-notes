@@ -4,7 +4,7 @@ Discription: notes from reading and lecture in Code 201.
 
 ## Reading Assignments 
 
-1. [ Reading Assignment 1. ](#assignment1)
+1. [ Reading Assignment 1 ](#assignment1)
 2. [ Reading Assignment 2. ](#assignment2)
 3. [ Reading Assignment 3. ](#assignment3)
 4. [ Reading Assignment 4. ](#assignment4)
