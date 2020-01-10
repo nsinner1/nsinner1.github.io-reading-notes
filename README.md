@@ -1,4 +1,4 @@
-### Code 201 Reading Notes 
+# Code 201 Reading Notes 
 
 Discription: notes from reading and lecture in Code 201. 
 
