@@ -2,7 +2,7 @@
 
 Discription: notes from reading and lecture in Code 201. 
 
-## Reading Assignments 
+## Reading Assignments Table of Contents
 
 1. [ Reading Assignment 1 ](#assignment1)
 2. [ Reading Assignment 2 ](#assignment2)
