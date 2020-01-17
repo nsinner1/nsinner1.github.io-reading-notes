@@ -33,3 +33,10 @@ In order to center a box on the page, you need to set a width for the box (other
 
 The display property allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an element from the page.
     Properties: inline, block, inline-block, none
+
+The border-image property applies an image to the border of any box. It takes a background image and slices it into nine pieces.
+
+The box-shadow property allows you to add a drop shadow around a box. 
+
+Create rounded corners on any box, using a property called border-radius. The value indicates the size of the radius in pixels.
+    Properties: border-top-right-radius, border-bottom-right-radius, border-bottom-left-radius, border-top-left-radius
