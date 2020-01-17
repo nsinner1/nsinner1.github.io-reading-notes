@@ -40,3 +40,8 @@ The box-shadow property allows you to add a drop shadow around a box.
 
 Create rounded corners on any box, using a property called border-radius. The value indicates the size of the radius in pixels.
     Properties: border-top-right-radius, border-bottom-right-radius, border-bottom-left-radius, border-top-left-radius
+
+<h2>Chapter 4</h2>
+A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.  
+You have a default option that is run if none of the cases match.
+If a match is found, that code is run; then the break statement stops the rest of the switch statement running (providing better performance than multiple i f statements).  
