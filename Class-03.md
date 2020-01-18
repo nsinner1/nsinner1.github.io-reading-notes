@@ -45,3 +45,12 @@ Create rounded corners on any box, using a property called border-radius. The va
 A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.  
 You have a default option that is run if none of the cases match.
 If a match is found, that code is run; then the break statement stops the rest of the switch statement running (providing better performance than multiple i f statements).  
+
+If you use a data type JavaScript did not expect, it tries to make sense of the operation rather than report an error. 
+Due to type coercion, every value in JavaScript can be treated as if it were true or false; and this has some interesting side effects. 
+Because the presence of an object or array can be considered truthy, it is often used to check for the existence of an element within a page. Logical operators are processed left to right. They short-circuit (stop) as soon as they have a result - but they return the value that stopped the processing (not necessarily true or fa1se).
+
+Loops check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false. 
+    For: run code a specific number of times
+    While: don't know how many times the code should run
+    Do while: will always run the statements indise the curly braces at least once, even if the condition evaluates to false. 
