@@ -22,3 +22,35 @@ or decreases the size of their browser window. Measurements tend to be given in 
 Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
 To create a fixed width layout, the width of the main boxes on a page will usually be specified in pixels (and sometimes their height, too).
 The liquid layout uses percentages to specify the width of each box so that the design will stretch to fit the size of the screen.
+
+
+<h2>JS Chapter 3</h2>
+
+FUNCTIONS & METHODS
+Functions consist of a series of statements
+that have been grouped together because they perform a specific task.
+A method is the same as a function, except methods are created inside (and are part of) an object.
+
+OBJECTS
+In Chapter 1you saw that
+programmers use objects to create models of the world using data, and that objects are made up of properties and methods. In this section, you learn how to create your own objects using JavaScript.
+
+BUILT-IN OBJECTS
+The browser comes with a set of objects that act like a toolkit for creating interactive web pages. This section introduces you to a number of built-in objects, which you will then see used throughout the rest of the book.
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
+
+To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces, function declaration. 
+
+Having declared the function, you can then execute all of the statements between its curly braces with just one line of code, calling the function. 
+
+Sometimes a function needs specific information fo perform its task. In such cases, when you declare the function you give it parameters. 
+
+When you call a function that has parameters, you specify the values it should use in the parentheses that follow its name, arguments. 
+
+Expressions produce a value. They can be used where values are expected. If a function is placed where a browser expects to see an expression,
+(e.g., as an argument to a function), then it gets treated as an expression.
+
+The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variable's scope.
+
+Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded. Local variables are only remembered during the period of time that a function is being executed.
