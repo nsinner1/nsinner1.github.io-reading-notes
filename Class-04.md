@@ -66,3 +66,52 @@ Pair programming touches on all four skills: developers explain out loud what th
 4. Social skills
 5. Job interview readiness
 6. Work environment readiness
+
+
+
+
+
+1/21 Demo lecture Functions
+
+
+function getName(){ ------ This is a function
+    var userName = prompt('please enter name);
+    console.log(userName);
+};
+----- Need to call function inorder for function to work
+------ can not get information out of a function unless you return it out of the fucntion
+getName(); - This is calling function (invoke)
+
+
+<!-- function getName(){ ------ This is a function
+    var userName = prompt('please enter name);
+    return 'the user entered: ' + userName;
+};
+
+getName(); -->
+
+
+function addTwoNumbers(number1, number2){
+    var sum = number1 + number2;
+    return sume;
+};
+
+var total = addTwoNumber(2,2);
+console.log('the sum is: ' + total);
+
+<!-- ******Have to assign function whe you are returning something -->
+
+
+function displayData(total){
+        console.log('the sume' + total);
+};
+
+var total = addTwoNumbers(2,2);
+displayData(total);
+
+
+<!-- 114 and 116-117 are the same -->
+displayData(addTwoNumbers(1,2));
+
+var newData = addTwoNumbers(1,2);
+dosplayData(newData);
