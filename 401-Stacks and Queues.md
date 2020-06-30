@@ -1,3 +1,5 @@
+https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html
+
 Push - Nodes or items that are put into the stack are pushed
 Pop - Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.
 Top - This is the top of the stack.
